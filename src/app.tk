@@ -1,0 +1,6 @@
+sankhya = 10
+
+agar sankhya > 5:
+    likho("Ye sankhya 5 se badi hai")
+warna:
+    likho("Ye sankhya 5 ya usse chhoti hai")

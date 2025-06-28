@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+tark/__init__.py
+tark/__main__.py
+tark.egg-info/PKG-INFO
+tark.egg-info/SOURCES.txt
+tark.egg-info/dependency_links.txt
+tark.egg-info/entry_points.txt
+tark.egg-info/top_level.txt

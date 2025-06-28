@@ -1,0 +1,2 @@
+[console_scripts]
+tark = tark.__main__:main
