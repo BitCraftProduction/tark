@@ -1,0 +1,24 @@
+# 🐍 Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🍳 Editable/install build artifacts
+*.egg-info/
+dist/
+build/
+
+# 📂 Tark-specific
+tark.egg-info/
+src/__pycache__/
+
+# 📁 IDE and editor configs
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# 💻 macOS/Linux/Windows system files
+.DS_Store
+Thumbs.db
