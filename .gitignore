@@ -1,5 +1,5 @@
 # 🐍 Python cache
-__pycache__/
+/__pycache__/
 *.py[cod]
 *.pyo
 *.pyd
@@ -10,8 +10,9 @@ dist/
 build/
 
 # 📂 Tark-specific
-tark.egg-info/
-src/__pycache__/
+
+/tark.egg-info/
+tark/__pycache__/
 
 # 📁 IDE and editor configs
 .vscode/
