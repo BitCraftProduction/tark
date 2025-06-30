@@ -89,12 +89,14 @@ likho("Hello")  # यह भी काम करता है
 
 ```
 tark/
+├── docs/              ← Tark Syntax Docs
 ├── tark/              ← Python package
-│   └── __main__.py
-├── src/
-│   └── app.tk         ← Tark source code
-├── setup.py
-└── Tark_Syntax.md     ← You are here
+│   ├── __main__.py    ← CLI entry point
+│   └── __init__.py
+├── setup.py           ← Packaging config
+├── pyproject.toml     ← Build metadata
+├── src/app.tk         ← Sample Tark code
+└── README.md
 ```
 
 
@@ -114,7 +116,6 @@ tark src/app.tk
 ```
 
 You must have Tark installed (`pip install -e .`)
-
 
 
 ## योजनाएं (Upcoming Features)

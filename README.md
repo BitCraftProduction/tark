@@ -1,6 +1,8 @@
 
 # Tark — A Hindi Programming Language | एक हिंदी प्रोग्रामिंग भाषा
 
+![Tark Logo](/tark_icon.png)
+
 > Tark (तर्क) means *"logic"* in Hindi.  
 > It is a beginner-friendly, open-source programming language that allows you to write code in **Hindi syntax**.
 
@@ -87,6 +89,7 @@ cd tark
 
 ```
 tark/
+├── docs/              ← Tark Syntax Docs
 ├── tark/              ← Python package
 │   ├── __main__.py    ← CLI entry point
 │   └── __init__.py
